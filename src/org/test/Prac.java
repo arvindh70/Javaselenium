@@ -1,7 +1,5 @@
 package org.test;
 
-import java.util.Arrays;
-
 public class Prac {
 
 	public static void main(String[] args)
@@ -15,7 +13,7 @@ public class Prac {
 			}
 		}
 
-		
+		System.out.println("new comment");
 		
 	}
 
